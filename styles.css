@@ -1,0 +1,31 @@
+body {
+  background-color: lightcyan;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0.1px;
+    width: 5%
+}
+h1 {
+  color: #0F52BA;
+}
+h3 {
+    color: #0F52BA;
+}
+p {
+  color: #262A53;
+}
+li {
+  color: #262A53;
+}
+td {
+    color: #262A53;
+}
+img:hover{
+  background-color: silver;
+
+}
